@@ -36,3 +36,32 @@ Report in a dashboard: Dash, Panel, Voila
 [Shell [CMD/Bash/zsh/fish].. CLI ... Makefile ... [Service Enhancemance] Tests/Coverage/ Packages/...
 
 OOP / High Order Funcrions / Applications/ Set upp... DBT NIFI, CLOUD FUNCTION, GCLOUD, GCS, .. AWS
+
+
+There are various:
+
+We focus:
+
+[1] Python
+
+[1] Learning Base Libraries
+
+Go through tutorials HOW TO
+
+[2] 
+
+[3] Practive Github
+
++ Process: Pull Master > Checkout Branch > Track Changes
+> Staging Areas > Push > PR >
+
++ CICD Process
+
+[4] Learn dbt, Airflow
+
+[2] Jupiters: https://nbviewer.jupyter.org/
+
+[4] Books:
+
+
+

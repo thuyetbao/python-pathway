@@ -1,11 +1,11 @@
 Problem:
 
-HERMES-561 [Requirement] Info
+Requirement Info
 
 1. Business Requirement:
 	+ Context: GTL - Limit Adjustment
 	+ Retailers: Existing Clients [Đã từng có Order]
-	+ Table: D_LIMIT_ADJUSTMENT.
+	+ Table: .
 
 2. Document:
 	+ BRD
