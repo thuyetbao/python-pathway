@@ -218,17 +218,17 @@ Makefile # has 2 targets related to Document
 
     After all, you can see all things in the destination folder. E.g:
 
-    ![Hackathon-Sample-Output](/assets/images/hackathon/Hackathon-Sample-Output.png)
+    ![Hackathon-Sample-Output](/assets/images/hackathon/Hackathon-sample-output-folders.png)
 
     with:
 
     `F_DOCUMENT_METADATA.xlsx` will likely like this
 
-    ![Hackathon-Sample-Output](/assets/images/hackathon/Hackathon-so-F_METADATA.png)
+    ![Hackathon-Sample-Output](/assets/images/hackathon/Hackathon-sample-output-F_METADATA.png)
 
     `F_DOCUMENT_METADATA.xlsx` will likely like this
 
-    ![Hackathon-Sample-Output](/assets/images/hackathon/Hackathon-so-F_ATTRIBUTES.png)
+    ![Hackathon-Sample-Output](/assets/images/hackathon/Hackathon-sample-output-F_ATTRIBUTES.png)
 
     
 
